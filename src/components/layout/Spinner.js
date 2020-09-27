@@ -7,4 +7,4 @@ const Spinner = () => <Fragment>
     
  
 
-export default Spinner
+export default Spinner;

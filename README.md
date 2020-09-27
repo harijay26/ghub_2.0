@@ -1,3 +1,16 @@
+# About the Application
+
+Github Finder is a mini application that connects to an external API and assist any prospective user to search for registered github users and also provides their details.
+
+## The components used for this application includes:
+
+1. ReactJs for the frontend framework.
+2. github API for the backend.
+
+Enjoy!
+
+## ----------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
